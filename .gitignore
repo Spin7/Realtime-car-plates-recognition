@@ -1,0 +1,76 @@
+﻿# ============================================================
+# Large binary / model files
+# ============================================================
+*.pt
+*.pth
+*.onnx
+*.pkl
+*.joblib
+*.h5
+*.safetensors
+*.bin
+
+# Dataset archives
+*.zip
+*.tar
+*.tar.gz
+*.tar.bz2
+*.7z
+*.rar
+
+# Video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wmv
+*.flv
+
+# ============================================================
+# Training outputs
+# ============================================================
+runs/
+optuna_yolo_runs/
+onnx_export/
+crops/
+output/
+best_hyp.yaml
+best_hyperparameters.yaml
+
+# ============================================================
+# Extracted datasets
+# ============================================================
+0_Dataset/License_Plate_Recognition_yolov8/
+
+# ============================================================
+# Python
+# ============================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+.venv
+env/
+venv/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ============================================================
+# Jupyter Notebook checkpoints
+# ============================================================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ============================================================
+# OS & Editor
+# ============================================================
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
