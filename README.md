@@ -267,6 +267,16 @@ Centroid smoothing: exponential moving average `(70% old + 30% new)`.
 
 ---
 
+## Demo Video
+
+<p align="center">
+  <a href="https://youtu.be/le9dOvcr2To" target="_blank">
+    <img src="https://img.youtube.com/vi/le9dOvcr2To/maxresdefault.jpg" alt="Demo Video" width="80%">
+  </a>
+</p>
+
+---
+
 ## License
 
 Dataset: **CC BY 4.0** (Roboflow Universe).  
