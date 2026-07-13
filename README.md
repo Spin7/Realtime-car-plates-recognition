@@ -163,7 +163,7 @@ Same composite layout as the video mode. The subtitle shows **total pipeline inf
 
 ---
 
-## 🏋️ Training
+## Training
 
 Open [Yolo_Trainer.ipynb](1_Notebook_for_train_the_model/Yolo_Trainer.ipynb) in Jupyter / VS Code.
 
